@@ -1,6 +1,5 @@
-# Automatically updated by the winget bot at 2021/Jan/21
 Id: Heroku.HerokuCLI
-Version: 7.47.9.0
+Version: 7.47.12.0
 Name: HerokuCLI
 AppMoniker: heroku
 Publisher: Heroku
@@ -11,5 +10,5 @@ Homepage: https://devcenter.heroku.com/articles/heroku-cli
 Installers:
 - Arch: x64
   Url: https://cli-assets.heroku.com/heroku-x64.exe
-  Sha256: F56299677CD88F6990EC5FC9CB4DB792FD52E216F9F32312074CD8AF2755FA5B
+  Sha256: 1CA3F47BCB0094A4C8B2E6C92A15F431E563FC248CC4E317F30F4F52C1AD7F06
   InstallerType: nullsoft
